@@ -30,7 +30,7 @@
   "homepage": "https://github.com/mthenw/serverless-go-plugin#readme",
   "dependencies": {
     "adm-zip": "^0.5.10",
-    "chalk": "^4.1.2",
+    "chalk": "^5.3.0",
     "lodash.merge": "^4.6.2",
     "p-map": "^4.0.0",
     "pretty-hrtime": "^1.0.3"
