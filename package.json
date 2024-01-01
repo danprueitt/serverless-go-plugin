@@ -32,7 +32,7 @@
     "adm-zip": "^0.5.10",
     "chalk": "^4.1.2",
     "lodash.merge": "^4.6.2",
-    "p-map": "^4.0.0",
+    "p-map": "^7.0.1",
     "pretty-hrtime": "^1.0.3"
   },
   "devDependencies": {
